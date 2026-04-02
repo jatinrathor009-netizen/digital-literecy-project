@@ -10,7 +10,7 @@
 | Name | Jatin Rathor |
 | Registration Number | 24MEI10139 |
 | Branch | Computer Science Engineering |
-| Year | Scond Year M.Tech |
+| Year | Scond Year |
 | Course Code | CSE0001 |
 | Course Title | Digital Literacy |
 
